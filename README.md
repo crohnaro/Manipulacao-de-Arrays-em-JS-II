@@ -21,13 +21,13 @@ Antes de começar, você precisará ter o seguinte instalado em seu computador:
 Clone o repositório forkado para o seu computador:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/Manipula-o-de-Arrays-em-JS.git
+git clone https://github.com/SEU-USUARIO/Manipulacao-de-Arrays-em-JS-II.git
 ```
 ### 3. Navegar até o Diretório do Projeto
    Entre no diretório do projeto clonado:
 
 ```bash
-cd Manipula-o-de-Arrays-em-JS
+cd Manipulacao-de-Arrays-em-JS-II
 ```
 
 ### 4. Instalar Dependências
