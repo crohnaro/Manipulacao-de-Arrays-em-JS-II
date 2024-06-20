@@ -8,3 +8,5 @@ function interseccao(array1, array2) {
 console.log(interseccao([1, 2, 3], [2, 3, 4])); // [2, 3]
 console.log(interseccao([1, 2, 3], [4, 5, 6])); // []
 console.log(interseccao(["a", "b", "c"], ["b", "c", "d"])); // ['b', 'c']
+
+module.exports = interseccao;
