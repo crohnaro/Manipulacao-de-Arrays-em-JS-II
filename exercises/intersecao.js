@@ -2,8 +2,10 @@
 
 function interseccao(array1, array2) {
   //implemente seu codigo aqui
+  return array1.filter(element => array2.includes(element));
 }
 
+module.exports = { interseccao };
 // Testes
 console.log(interseccao([1, 2, 3], [2, 3, 4])); // [2, 3]
 console.log(interseccao([1, 2, 3], [4, 5, 6])); // []
