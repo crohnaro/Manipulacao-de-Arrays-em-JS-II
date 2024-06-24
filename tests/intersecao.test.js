@@ -1,4 +1,4 @@
-const { interseccao } = require('../exercises/intersecao');
+const interseccao  = require('../exercises/intersecao');
 
 test('encontrar a interseção dos arrays [1, 2, 3] e [2, 3, 4]', () => {
   expect(interseccao([1, 2, 3], [2, 3, 4])).toEqual([2, 3]);
