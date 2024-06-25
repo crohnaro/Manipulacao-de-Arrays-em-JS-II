@@ -2,6 +2,7 @@
 
 function interseccao(array1, array2) {
   //implemente seu codigo aqui
+  return array1.filter(element => array2.includes(element));
 }
 
 // Testes
